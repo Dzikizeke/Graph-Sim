@@ -1,5 +1,8 @@
 # Graphing and Mathematical Simulation Platform
 
+## Demo
+![Demo](media/demo.gif)
+
 A full-stack web application for interactive mathematical visualization and simulation.  
 The platform allows users to explore mathematical concepts through real-time graphing, numerical computation, and data visualization.
 
